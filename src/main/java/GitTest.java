@@ -8,6 +8,7 @@ public class GitTest {
         System.out.println("Mock interview");
         System.out.println("Kunduz");
         System.out.printl("Jazira");
+        System.out.printl("Sunny");
 
 
     }
